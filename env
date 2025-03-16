@@ -1,0 +1,8 @@
+UPLOAD_LOCATION=/mnt/immich/immich-media
+DB_DATA_LOCATION=/mnt/immich/immich-db
+TZ=Asia/Qatar
+IMMICH_VERSION=release
+DB_PASSWORD=YourSecurePassword123
+DB_USERNAME=postgres
+DB_DATABASE_NAME=immich
+VITE_SERVER_ENDPOINT=http://4.244.139.183:80/api
